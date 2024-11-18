@@ -17,9 +17,14 @@ Data after all cleaning, processing, and analyzing.
 
 ## Data dictionary
 
-| Field          | Description                        | Sample Data      |
-| -------------- | ---------------------------------- | ---------------- |
-| UserID         | Unique identifier for a user       | U12345           |
-| PurchaseDate   | Date when the purchase was made    | 2024-11-15       |
-| ProductName    | Name of the product purchased      | Wireless Earbuds |
-| PurchaseAmount | Total amount spent on the purchase | 99.99            |
+| **Column Name**       | **Description**                                                                                  |
+| --------------------- | ------------------------------------------------------------------------------------------------ |
+| **Rank**              | The ranking position of the player based on their performance or achievements.                   |
+| **Player**            | The name of the football player.                                                                 |
+| **Nation**            | The country the player represents in international football.                                     |
+| **Confederation**     | The football confederation (e.g., UEFA, CONMEBOL) the player's country is part of.               |
+| **Goals**             | The total number of goals scored by the player in international matches.                         |
+| **Caps**              | The total number of international matches played by the player (appearances).                    |
+| **Goals per match**   | The average number of goals scored by the player per match, calculated as goals divided by caps. |
+| **Career span**       | The time period during which the player was active in international football.                    |
+| **Date of 50th goal** | The specific date when the player scored their 50th international goal.                          |
