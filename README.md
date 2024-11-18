@@ -43,17 +43,16 @@ Shows the list of various tasks I have completed and still need to complete
 | **Nation**            | The country the player represents in international football.                                     |
 | **Confederation**     | The football confederation (e.g., UEFA, CONMEBOL) the player's country is part of.               |
 | **Goals**             | The total number of goals scored by the player in international matches.                         |
-| **Caps**              | The total number of international matches played by the player (appearances).                    |
 | **Goals per match**   | The average number of goals scored by the player per match, calculated as goals divided by caps. |
 | **Career span**       | The time period during which the player was active in international football.                    |
 | **Date of 50th goal** | The specific date when the player scored their 50th international goal.                          |
 
 ## Top 5 Rows from Data
 
-| **Rank** | **Player**        | **Nation** | **Confederation** | **Goals** | **Caps** | **Goals per match** | **Career span** | **Date of 50th goal** |
-| -------- | ----------------- | ---------- | ----------------- | --------- | -------- | ------------------- | --------------- | --------------------- |
-| 1        | Cristiano Ronaldo | Portugal   | UEFA              | 135       | 217      | 0.62                | 2003-           | 26-Jun-14             |
-| 2        | Lionel Messi      | Argentina  | CONMEBOL          | 112       | 190      | 0.59                | 2005-           | 29-Mar-16             |
-| 3        | Ali Daei          | Iran       | AFC               | 108       | 148      | 0.73                | 1993-2006       | 9-Jan-00              |
-| 4        | Sunil Chhetri     | India      | AFC               | 94        | 151      | 0.62                | 2005-2024       | 31-Dec-15             |
-| 5        | Mokhtar Dahari    | Malaysia   | AFC               | 89        | 142      | 0.63                | 1972-1985       | 22-Aug-76             |
+| **Rank** | **Player**        | **Nation** | **Confederation** | **Goals** | **Goals per match** | **Career span** | **Date of 50th goal** |
+| -------- | ----------------- | ---------- | ----------------- | --------- | ------------------- | --------------- | --------------------- |
+| 1        | Cristiano Ronaldo | Portugal   | UEFA              | 135       | 0.62                | 2003-           | 26-Jun-14             |
+| 2        | Lionel Messi      | Argentina  | CONMEBOL          | 112       | 0.59                | 2005-           | 29-Mar-16             |
+| 3        | Ali Daei          | Iran       | AFC               | 108       | 0.73                | 1993-2006       | 9-Jan-00              |
+| 4        | Sunil Chhetri     | India      | AFC               | 94        | 0.62                | 2005-2024       | 31-Dec-15             |
+| 5        | Mokhtar Dahari    | Malaysia   | AFC               | 89        | 0.63                | 1972-1985       | 22-Aug-76             |
