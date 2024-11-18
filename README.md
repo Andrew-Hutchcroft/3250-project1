@@ -4,7 +4,7 @@
 
 ## Overview
 
-### I intend to hold my data analytics projects in this repository. This can include my datasets and the overall project results.
+I intend to hold my data analytics projects in this repository. This can include my datasets and the overall project results.
 
 ## Source:
 
@@ -12,26 +12,27 @@ https://www.kaggle.com/datasets/whisperingkahuna/footballers-with-50-internation
 
 ## Folder Descriptions:
 
-### cleaning: Contains the subfolders of clean and preprocessed data to show the transformation to clean data
+cleaning: Contains the subfolders of clean and preprocessed data to show the transformation to clean data
 
-### code: Contains subfolders of notebooks and scripts to show the code I am using
+code: Contains subfolders of notebooks and scripts to show the code I am using
 
-### scripts: Contains READ.me
+scripts: Contains READ.me
 
-### Data: Contains a subfolder of raw and final data to show the original data and the finalized data
+Data: Contains a subfolder of raw and final data to show the original data and the finalized data
 
-## Change Log
+## Change Log (updates on project progress)
 
-### This section will show the updates in my project
+Pre Processed Data: 11/16/2024 AJH
+
+Cleaned Data: 11/18/2024 AJH
 
 ## To do list
 
-### Shows the list of various tasks I have completed and still need to complete
+Shows the list of various tasks I have completed and still need to complete
 
-[] task 1  
-[x] task 2  
-[] task 3  
-~[x] task 4~
+~[x] task 1~ - Preprocess Data
+~[x] task 2~ - Clean Data
+[] task 3 - Finalize Data
 
 ## Data Dictionary
 
